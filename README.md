@@ -24,4 +24,4 @@
   <a href="#"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andndo)](https://github.com/andndo/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andndo)](https://github.com/andndo)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andndo&show_icons=true&icon_color=1CB5E0)](https://github.com/andndo)
