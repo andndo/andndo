@@ -23,3 +23,5 @@
   <a href="#"><img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andndo)](https://github.com/andndo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andndo)](https://github.com/andndo)
