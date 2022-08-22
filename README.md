@@ -1,3 +1,6 @@
+  
+  ### 💻Tech🖱
+  
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3655FF?style=flat&logo=TypeScript&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
@@ -8,6 +11,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=Npm&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Json-000000?style=flat-square&logo=Json&logoColor=white"/></a>
+  
+  ### 🔧Tool🔨
   
   <a href="#"><img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
